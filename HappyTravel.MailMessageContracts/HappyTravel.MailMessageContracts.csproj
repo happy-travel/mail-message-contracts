@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Company>HappyTravel</Company>
+        <Authors>Denis Nikolaev</Authors>
+        <Description>Message bus contracts for mail message transfer</Description>
+        <PackageReleaseNotes>Fixed Title in Pax</PackageReleaseNotes>
+        <PackageProjectUrl>https://github.com/happy-travel/mail-message-contracts</PackageProjectUrl>
+        <RepositoryURL>https://github.com/happy-travel/mail-message-contracts</RepositoryURL>
+        <Version>1.0.0</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
